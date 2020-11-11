@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import Portada from './components/Portada.jsx';
 import Guitarras from './components/Guitarras.jsx';
 import Footer from './components/Footer.jsx';
